@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<true/>
+		<key>Key</key>
+		<string>enable_linkify</string>
+		<key>Title</key>
+		<string>Turn URLs, @twitterusers and email addresses into links</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<true/>
+		<key>Key</key>
+		<string>wrap_text</string>
+		<key>Title</key>
+		<string>Wrap text at the edge of the popup window</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<true/>
+		<key>Key</key>
+		<string>use_https</string>
+		<key>Title</key>
+		<string>Request humans.txt when browsing with HTTPS</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+</array>
+</plist>
