@@ -232,7 +232,7 @@
   twttr.txt.regexen.validGTLD = regexSupplant(RegExp(
     '(?:(?:academy|aero|agency|arpa|asia|bargains|berlin|bike|biz|blue|boutique|build|builders|buzz|cab|camera|camp|careers|cat|catering|' +
     'center|ceo|cheap|cleaning|clothing|club|codes|coffee|com|community|company|computer|construction|contractors|cool|coop|cruises|' +
-    'dance|dating|democrat|diamonds|directory|domains|edu|education|email|enterprises|equipment|estate|events|expert|exposed|farm|' +
+    'dance|dating|democrat|diamonds|directory|dog|domains|edu|education|email|enterprises|equipment|estate|events|expert|exposed|farm|' +
     'flights|florist|gallery|gift|glass|gov|graphics|guitars|guru|holdings|holiday|house|immobilien|info|institute|int|international|' +
     'jobs|kaufen|kim|kitchen|kiwi|land|lighting|limo|link|luxury|management|marketing|menu|mil|mobi|moda|monash|museum|nagoya|name|net|' +
     'ninja|onl|org|partners|photo|photography|photos|pics|pink|plumbing|post|pro|properties|recipes|red|rentals|repair|report|rich|ruhr|' +
