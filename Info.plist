@@ -15,7 +15,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.4</string>
 	<key>CFBundleVersion</key>
-	<string>5</string>
+	<string>6</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -58,6 +58,8 @@
 	</dict>
 	<key>Description</key>
 	<string>Display the humans.txt file of website if they provide it</string>
+	<key>DeveloperIdentifier</key>
+	<string>VG2GMCLCCR</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
